@@ -1,0 +1,12 @@
+{
+    "C_Cpp.default.configurationProvider": "vector-of-bool.cmake-tools",
+    "cmake.mingwSearchDirs": [],
+    "cmake.parallelJobs": 4,
+    "cmake.sourceDirectory": "${workspaceFolder}",
+    "cmake.cmakeToolchain" : "D:/vcpkg/scripts/buildsystems/vcpkg.cmake",
+    "cmake.configureSettings": {
+        "VCPKG_TARGET_TRIPLET" : "x86-windows",
+        "CMAKE_TOOLCHAIN_FILE"  : "D:/vcpkg/scripts/buildsystems/vcpkg.cmake",
+    },
+    "cmake.platform": "x86",
+}

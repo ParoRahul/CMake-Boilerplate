@@ -1,0 +1,5 @@
+D:/cpp/CMake-Boilerplate/basic/02-3rdPartyLibrary/build/CMakeFiles/RUN_TESTS.dir
+D:/cpp/CMake-Boilerplate/basic/02-3rdPartyLibrary/build/CMakeFiles/ALL_BUILD.dir
+D:/cpp/CMake-Boilerplate/basic/02-3rdPartyLibrary/build/CMakeFiles/ZERO_CHECK.dir
+D:/cpp/CMake-Boilerplate/basic/02-3rdPartyLibrary/build/src/CMakeFiles/RUN_TESTS.dir
+D:/cpp/CMake-Boilerplate/basic/02-3rdPartyLibrary/build/src/CMakeFiles/main.dir
