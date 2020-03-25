@@ -1,2 +1,2 @@
-basic/02-3rdPartyLibrary/build/*
-basic/02-3rdPartyLibrary/.vscode/*
+basic\02-3rdPartyLibrary\build\*
+basic\02-3rdPartyLibrary\.vscode\*
