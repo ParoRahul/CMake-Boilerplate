@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0)
-project("cvtest")
+project("thirdparty")
 message(" Projrct Name "${PROJECT_MNAME})
 find_package( OpenCV REQUIRED )
 message(STATUS "OpenCV library status: ${OPENCV_FOUND}")
